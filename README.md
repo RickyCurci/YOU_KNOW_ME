@@ -4,7 +4,7 @@ I if you are here is because you want know more about or because you know me. Th
 
 PRESS "View code" TO SEE AND DOWNLOAD PYTHON FILE
 
-GUIDE TO USE A PYTHON FILE (IM_HERE.py):
+## GUIDE TO USE A PYTHON FILE (IM_HERE.py):
 
 	1.Download IM_HERE.py on your devide (Press the Name of the file >> Press "Scarca il file")
 	2.Go to File app and move the file from Download in a iCloudDrive Folder
@@ -16,18 +16,15 @@ GUIDE TO USE A PYTHON FILE (IM_HERE.py):
 
     8.Now Enter this command:
   
-      1. //
-  
-  		ls
+      1. ls
     
-      2. // 
-  
-    	if you see this:
-      		IM_HERE.py
+      2. If you see this:
+        
+        	IM_HERE.py
 
 
-     9.Finally enter:
-    	
-        python IM_HERE.py
+     9. Enter:
+     
+     	python IM_HERE.py
 
-OK NOW YOU ARE READY TO ANSEWER THE QUESTION [Good Luck :)]
+### OK NOW YOU ARE READY TO ANSEWER THE QUESTION [Good Luck :)]
